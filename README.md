@@ -6,10 +6,7 @@ Designed in SolidWorks for the world robotics championship.
 ## Preview of Designs
 
 ### Full CAD Assembly
-![Robocon CAD](images/robocon_cad.png)
-
-### Golf Robot Chassis
-![Golf Robot Chassis](images/golf_robot_chassis.png)
+![Robocon CAD](robocon 2025.JPG)
 
 ---
 
