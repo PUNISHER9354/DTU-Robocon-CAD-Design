@@ -1,12 +1,12 @@
 # ROBOCON 2025 CAD Design – DTU Altair Team
 
 This repository contains the CAD models and design renders for the DTU Altair Team's ROBOCON 2025 robot.  
-Designed in SolidWorks for the world robotics championship.
+Designed in SolidWorks for the World Robotics Championship.
 
 ## Preview of Designs
 
 ### Full CAD Assembly
-![Robocon CAD](robocon 2025.JPG)
+![Robocon CAD](https://github.com/PUNISHER9354/DTU-Robocon-CAD-Design/blob/main/robocon%202025.JPG)
 
 ---
 
